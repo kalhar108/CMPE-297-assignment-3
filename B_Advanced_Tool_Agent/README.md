@@ -4,17 +4,17 @@ Based on: [Combine ADK, Gemini CLI, and Cloud Run](https://medium.com/@derrickch
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project demonstrates **advanced tool integration** by combining the **Google Agent Development Kit (ADK)** with **Gemini CLI**.  
 It creates a seamless pipeline where an ADK agent can invoke Gemini CLI as an external tool for **specialized code generation**, **multi-file analysis**, and **refactoring tasks**.
 
 ---
 
-## 🎥 Video Walkthrough
+## Video Walkthrough
 
-📺 Watch the complete setup and demo here:  
-👉 [**Advanced Tool Agent with Gemini CLI**](https://youtu.be/_fNsDxPZWdQ)
+Watch the complete setup and demo here:  
+👉 [**Advanced Tool Agent with Gemini CLI**](https://youtu.be/KgWwLig9uIw)
 
 **In this video you’ll learn:**
 - How the ADK agent integrates with Gemini CLI  
@@ -176,9 +176,3 @@ https://agent-b-<PROJECT_NUMBER>.us-central1.run.app
 * [Gemini CLI Documentation](https://pypi.org/project/google-generativeai)
 * [Vertex AI Gemini Models](https://cloud.google.com/vertex-ai/docs/generative-ai)
 * [Cloud Run Docs](https://cloud.google.com/run/docs)
-
----
-
-## 🎥 Watch the Demo Again
-
-📺 **YouTube:** [https://youtu.be/_fNsDxPZWdQ](https://youtu.be/_fNsDxPZWdQ)
