@@ -5,6 +5,8 @@ It understands natural language, queries a structured database, and helps users 
 
 ---
 
+**> **[Sports Shop Agent AI Assistant](https://youtu.be/fx9KH-xlHOc)****
+
 ## 🧠 Overview
 
 Finn is a sports store assistant that combines **LLM reasoning** with **database intelligence**.  
@@ -287,4 +289,4 @@ curl -X POST \
 
 A full demo video walkthrough of this project is available on YouTube:
 
-> **[Sports Shop Agent AI Assistant](https://youtu.be/qY5JN7VQNbk)**
+> **[Sports Shop Agent AI Assistant](https://youtu.be/fx9KH-xlHOc)**
