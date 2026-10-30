@@ -4,7 +4,7 @@ Based on: [Build a Deep Research Agent with Google ADK](https://cloud.google.com
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This agent performs deep research on companies to generate qualified leads.  
 It searches the web, analyzes company information, and produces structured reports with contact details and insights.
@@ -14,7 +14,7 @@ It searches the web, analyzes company information, and produces structured repor
 ## 🎥 Video Walkthrough
 
 Watch the full step-by-step walkthrough of this project on YouTube:  
-👉 [**Deep Research Agent for Lead Generation**](https://youtu.be/qKUajc8iEwc)
+👉 [**Deep Research Agent for Lead Generation**](https://youtu.be/HhsEg-fADUs)
 
 The video covers:
 - Setting up Google ADK and environment variables  
@@ -24,17 +24,17 @@ The video covers:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 **Multi-step research workflow**  
-- 🌐 **Web search integration** using Google Search  
-- 📊 **Structured data extraction** for company and contact insights  
-- 🧾 **CSV and JSON report generation**  
-- ⚙️ **Configurable research depth and parameters**
+-  **Multi-step research workflow**  
+-  **Web search integration** using Google Search  
+-  **Structured data extraction** for company and contact insights  
+- **CSV and JSON report generation**  
+-  **Configurable research depth and parameters**
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 1. **Install dependencies**
    ```bash
@@ -53,7 +53,7 @@ The video covers:
 
 ---
 
-## 📂 Output
+## Output
 
 The agent generates the following files in the `outputs/` directory:
 
@@ -65,7 +65,7 @@ The agent generates the following files in the `outputs/` directory:
 
 ---
 
-## 💡 Example Workflow
+## Example Workflow
 
 1. Enter a list of target companies or industries.
 2. The agent uses Google Search and structured data APIs to gather company info.
@@ -74,14 +74,10 @@ The agent generates the following files in the `outputs/` directory:
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 * [Google ADK Documentation](https://cloud.google.com/gen-app-builder/docs/adk)
 * [Vertex AI Overview](https://cloud.google.com/vertex-ai)
 * [Python SDK for ADK](https://pypi.org/project/google-adk/)
 
 ---
-
-## 🎥 Watch the Demo Again
-
-📺 **YouTube Walkthrough:** [https://youtu.be/qKUajc8iEwc](https://youtu.be/qKUajc8iEwc)
