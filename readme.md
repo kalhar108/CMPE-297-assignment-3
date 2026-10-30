@@ -1,11 +1,12 @@
-# 🧠 Google ADK Agent Applications - End-to-End Implementations
-
+# Google ADK Agent Applications - End-to-End Implementations
+- Name: Kalhar Mayurbhai Patel
+- SJSU ID: 019140511
 This repository contains five complete end-to-end (E2E) **Google Agent Development Kit (ADK)** projects built following official Google Cloud Codelabs and community examples.
 Each project demonstrates how to design, build, and deploy intelligent agents using ADK, Gemini models, MCP tools, and Google Cloud Run.
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 | No. | Agent Name                          | Description                                                                                                                | Reference                                   |
 | --- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -17,7 +18,7 @@ Each project demonstrates how to design, build, and deploy intelligent agents us
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 1. Clone this repository and open it locally.
 2. Create a Python virtual environment and install dependencies listed in each agent folder.
@@ -26,7 +27,7 @@ Each project demonstrates how to design, build, and deploy intelligent agents us
 
 ---
 
-## 🧩 Repository Structure
+##  Repository Structure
 
 The repository is organized into five main directories, each corresponding to one ADK agent project.
 Each folder contains implementation files, configuration files, screenshots, and a README describing setup and execution steps.
@@ -34,7 +35,7 @@ Additionally, there is a **video_walkthrough** folder containing demonstration v
 
 ---
 
-## 🧠 Walkthrough & Deliverables
+##  Walkthrough & Deliverables
 
 Each project includes the following artifacts:
 
@@ -47,7 +48,7 @@ All five agents were developed, tested, and executed using the ADK environment a
 
 ---
 
-## ⚙️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Google Agent Development Kit (ADK)
 * Vertex AI and Gemini Models
@@ -60,7 +61,7 @@ All five agents were developed, tested, and executed using the ADK environment a
 
 ---
 
-## 🧪 Execution Process
+##  Execution Process
 
 1. Initialize ADK and configure environment variables.
 2. Run the agent pipeline locally or deploy to Google Cloud Run.
@@ -69,7 +70,7 @@ All five agents were developed, tested, and executed using the ADK environment a
 
 ---
 
-## 🎥 Video Demonstration
+##  Video Demonstration
 
 Each agent includes a short video that explains:
 
