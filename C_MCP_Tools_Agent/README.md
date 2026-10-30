@@ -1,20 +1,20 @@
-# 🐞 Agent C: MCP Tools-based Bug Assistant
+#  Agent C: MCP Tools-based Bug Assistant
 
 Based on: [Tools Make an Agent from Zero to Assistant with ADK](https://cloud.google.com/blog/topics/developers-practitioners/tools-make-an-agent-from-zero-to-assistant-with-adk)
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This agent leverages **Model Context Protocol (MCP) tools** to provide intelligent, automated **bug analysis and fixing**.  
 It can scan source code, identify potential issues, suggest fixes, and even generate and apply patches — all within a configurable developer workflow.
 
 ---
 
-## 🎥 Video Walkthrough
+##  Video Walkthrough
 
-📺 Watch the full step-by-step walkthrough of this project on YouTube:  
-👉 [**MCP Bug Assistant**](https://youtu.be/4bjq91TVp-s)
+ Watch the full step-by-step walkthrough of this project on YouTube:  
+ [**MCP Bug Assistant**](https://youtu.be/H8w-ZQg-qlk)
 
 **What you'll learn in the video:**
 - How MCP tools power contextual debugging  
@@ -160,9 +160,3 @@ https://agent-c-<PROJECT_NUMBER>.us-central1.run.app
 * [Model Context Protocol (MCP)](https://cloud.google.com/gen-app-builder/docs/mcp)
 * [Vertex AI Gemini](https://cloud.google.com/vertex-ai)
 * [Cloud Run Documentation](https://cloud.google.com/run/docs)
-
----
-
-## 🎥 Watch the Demo Again
-
-📺 **YouTube:** [https://youtu.be/4bjq91TVp-s](https://youtu.be/4bjq91TVp-s)
