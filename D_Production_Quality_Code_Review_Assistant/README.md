@@ -1,17 +1,17 @@
-# 🚀 Building a Production AI Code Review Assistant with Google ADK
+#  Building a Production AI Code Review Assistant with Google ADK
 
-### 🎥 **YouTube Walkthrough**
+###  **YouTube Walkthrough**
 
-👉 [Watch the full video walkthrough here](https://youtu.be/7ZWBCcM8r2g)
+ [Watch the full video walkthrough here](https://youtu.be/GrKymyy6i6g)
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project is based on Google’s official codelab **“Building a Production AI Code Review Assistant with Google ADK”** by *Ayo Adedeji*.
 It walks through the process of creating a **production-grade AI Code Review Assistant** that can analyze, test, and fix Python code automatically using **Google’s Agent Development Kit (ADK)** and **Vertex AI**.
 
-### 🔍 What It Does
+###  What It Does
 
 * Analyzes code structure using Python’s AST
 * Checks for PEP8 style compliance
@@ -23,7 +23,7 @@ It walks through the process of creating a **production-grade AI Code Review Ass
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 This system is built on a **multi-agent architecture** using Google ADK:
 
